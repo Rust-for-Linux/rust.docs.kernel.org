@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["module","Declares a kernel module."]],"struct":[["Box","A pointer type for heap allocation."],["Pin","A pinned pointer."],["Vec","A contiguous growable array type, written as `Vec<T>`, short for ‘vector’."]]});
