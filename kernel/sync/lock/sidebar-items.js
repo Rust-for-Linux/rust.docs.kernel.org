@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["mutex","A kernel mutex."],["spinlock","A kernel spinlock."]],"struct":[["Guard","A lock guard."],["Lock","A mutual exclusion primitive."]],"trait":[["Backend","The “backend” of a lock."]]});

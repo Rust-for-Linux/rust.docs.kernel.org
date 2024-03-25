@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MutexBackend","A kernel `struct mutex` lock backend."]],"type":[["Mutex","A mutual exclusion primitive."]]});
