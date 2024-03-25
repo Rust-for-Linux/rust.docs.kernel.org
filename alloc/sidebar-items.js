@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["alloc","Memory allocation APIs"],["boxed","The `Box<T>` type for heap allocation."],["collections","Collection types."],["slice","Utilities for the slice primitive type."],["vec","A contiguous growable array type with heap-allocated contents, written `Vec<T>`."]]};

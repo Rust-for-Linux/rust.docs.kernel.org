@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Task","Wraps the kernel’s `struct task_struct`."]]};
