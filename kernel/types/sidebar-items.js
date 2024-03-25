@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Either","A sum type that always holds either a value of type `L` or `R`."]],"struct":[["Opaque","Stores an opaque value."]]});
